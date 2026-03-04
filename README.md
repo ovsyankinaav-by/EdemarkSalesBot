@@ -6,7 +6,7 @@
 > **Платформа:** Telegram Bot API
 
 ---
-
+[1](https://github.com/ovsyankinaav-by/EdemarkSalesBot/blob/main/bot.jpg?raw=true)
 ## 📋 Оглавление
 
 1. [Обзор проекта](#-обзор-проекта)
